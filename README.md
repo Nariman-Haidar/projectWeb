@@ -7,6 +7,7 @@ https://gilded-profiterole-715f31.netlify.app/
 
 First create an api key from this page\
 https://developers.google.com/
+
 and then add this key in this page:\
 https://github.com/Nariman-Haidar/projectWeb/blob/main/src/js/apiConfig.js/\
 
