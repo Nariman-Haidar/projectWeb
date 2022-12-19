@@ -5,7 +5,7 @@ https://gilded-profiterole-715f31.netlify.app/
 
 ## How to run the app in localhost 
 ````
-First create an api key from this page: 
+First create an api key from this page: ````
 https://developers.google.com/
 and then add this key in this page:
 https://github.com/Nariman-Haidar/projectWeb/blob/main/src/js/apiConfig.js/
@@ -13,7 +13,7 @@ https://github.com/Nariman-Haidar/projectWeb/blob/main/src/js/apiConfig.js/
 
 Then create an firebase configuration and put this in https://firebase.google.com/ 
 then add this configerations in the https://github.com/Nariman-Haidar/projectWeb/blob/main/src/js/firebaseConfig.js
-````
+
 
 
 # Getting Started with Create React App
