@@ -5,9 +5,13 @@ https://gilded-profiterole-715f31.netlify.app/
 
 ## How to run the app in localhost 
 ````
-First create an api key from the https://developers.google.com/books/docs/ and then put this key in /src/js/app Config.js / 
-Then create an firebase configuration and put this in /src/js/firebaseConfig.js /
+First create an api key from the https://developers.google.com 
+and then add this key in https://github.com/Nariman-Haidar/projectWeb/blob/main/src/js/apiConfig.js.
+
+Then create an firebase configuration and put this in https://firebase.google.com/ 
+then add this configerations in the https://github.com/Nariman-Haidar/projectWeb/blob/main/src/js/firebaseConfig.js
 ````
+
 
 # Getting Started with Create React App
 
@@ -16,6 +20,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `git clone`
+```
+$ git clone https://github.com
+$ cd mybooky
+$ npm install
+```
 
 ### `npm install`
 This command installs a package and any package that it depends on like package json.
