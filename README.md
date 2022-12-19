@@ -6,11 +6,11 @@ https://gilded-profiterole-715f31.netlify.app/
 ## How to run the app in localhost 
 
 ### `git clone`
-```
-$ git clone https://github.com
+
+$ git clone https://github.com/Nariman-Haidar/projectWeb.git 
 $ cd mybooky
 $ npm install
-```
+
 First create an api key from this page\
 https://developers.google.com/
 
